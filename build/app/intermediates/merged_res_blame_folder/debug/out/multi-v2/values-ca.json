@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\lydia\\OneDrive\\Desktop\\Projects\\Flutter\\instagram-clone\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ca\\values-ca.xml",
+            "outputFile": "C:\\Users\\lydia\\OneDrive\\Desktop\\Code\\Flutter\\instagram_clone\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ca\\values-ca.xml",
             "map": [
                 {
                     "source": "C:\\Users\\lydia\\.gradle\\caches\\transforms-2\\files-2.1\\6627ebe7ef94065a47e7e8e9d66c6a9d\\jetified-play-services-base-17.1.0\\res\\values-ca\\values.xml",
