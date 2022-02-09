@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\lydia\\OneDrive\\Desktop\\Code\\Flutter\\instagram_clone\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\lydia\\OneDrive\\Desktop\\Projects\\Flutter\\instagram-clone\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\lydia\\.gradle\\caches\\transforms-2\\files-2.1\\cea45e25bbe77c9713c39e234ccfd7bd\\jetified-window-1.0.0-beta04\\res\\values\\values.xml",
@@ -78,7 +78,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\lydia\\OneDrive\\Desktop\\Code\\Flutter\\instagram_clone\\build\\app\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "source": "C:\\Users\\lydia\\OneDrive\\Desktop\\Projects\\Flutter\\instagram-clone\\build\\app\\generated\\res\\google-services\\debug\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",
@@ -131,7 +131,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\lydia\\OneDrive\\Desktop\\Code\\Flutter\\instagram_clone\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\lydia\\OneDrive\\Desktop\\Projects\\Flutter\\instagram-clone\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
